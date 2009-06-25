@@ -28,7 +28,7 @@ exprs(apo[1:3,])
 description(apo)[3:6]
 
 map <- readFCS(system.file("extdata", "map",
-           "060304MAPK controls.A01", package="facsDorit"))
+           "060304MAPK_controls.A01", package="facsDorit"))
 map
 exprs(map[1:3,])
 description(map)[3:6]
