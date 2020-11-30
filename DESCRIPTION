@@ -1,5 +1,5 @@
 Package: facsDorit
-Version: 1.33.0
+Version: 1.33.1
 Date: 2006-06-08
 Title: DKFZ FACS example data
 Author: Florian Hahne <f.hahne@dfkz-heidelberg.de>
@@ -9,3 +9,4 @@ Description: FACS example data for cell-based assays. This data is used in the e
 License: GPL-2
 URL: http://www.dkfz.de/mga
 biocViews: ExperimentData, MicrotitrePlateAssayData
+PackageStatus: Deprecated
